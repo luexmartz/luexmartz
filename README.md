@@ -4,4 +4,3 @@
 - 🌱 I'm currently working with Phoenix Stack and a bit React
 - 📨 How to reach me...
   - 🐦 Twitter: https://twitter.com/luexmartz
-  - 🔗 Linkedin: www.linkedin.com/in/luexmartz
