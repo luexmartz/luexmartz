@@ -1,6 +1,7 @@
-- 👋 Hola, I’m Luis Mtz a software engineer based in México 🇲🇽
+- 👋 Hola, I'm Luis Mtz, a software engineer with over 10 years of experience on web development.
 - 👀 I'm interested in Functional Programming, Real-Time & rich user experience
-- 🔥 I’m looking to collaborate on the development of technology that generates impact!
+- 🔥 I’m looking to collaborate on products that generates impact!
 - 🌱 I'm currently working with Phoenix/Elixir Stack and React
 - 📨 How to reach me...
-  - 🐦 Twitter: https://twitter.com/luexmartz
+  - 🐦 [Twitter] https://twitter.com/luexmartz
+  - 👤 [Linkedln] https://www.linkedin.com/in/luexmartz/
